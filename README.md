@@ -17,7 +17,7 @@
   - Browser modern (Chrome/Edge) untuk kamera dan WebHID.
 - Database
   - Buat database `checkinventorydb` di MySQL Laragon.
-  - Kredensial default yang digunakan aplikasi: host `127.0.0.1`, user `root`, pass `asdfQWER789`.
+  - Kredensial contoh: host `127.0.0.1`, user `<user_db_anda>`, pass `<password_db_anda>`.
   - Anda dapat mengubah di `includes/config.php`.
 - Menjalankan
   - Opsi Laragon (disarankan): letakkan folder di `C:\laragon\www\iventorycheck` lalu akses `http://localhost/iventorycheck/` atau virtual host `.test` jika aktif.
@@ -33,7 +33,7 @@
   - Modern browser (Chrome/Edge) for camera and WebHID.
 - Database
   - Create database `checkinventorydb` in MySQL (Laragon).
-  - Default credentials used by the app: host `127.0.0.1`, user `root`, pass `asdfQWER789`.
+  - Example credentials: host `127.0.0.1`, user `<user_db_anda>`, pass `<password_db_anda>`.
   - You can change them in `includes/config.php`.
 - Run
   - Laragon option: put the folder under `C:\laragon\www\iventorycheck` then visit `http://localhost/iventorycheck/` or a `.test` virtual host if enabled.
