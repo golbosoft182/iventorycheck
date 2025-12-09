@@ -148,3 +148,23 @@
 - Ensure `checkinventorydb` exists and credentials set in `includes/config.php`.
 - From project root, run: `php scripts/seed.php`.
 - The seeder will create schema if missing and insert dummy data.
+
+---
+
+## Cuplikan Layar (ID)
+![Screenshot 1](assets/screenshoot/1.png)
+![Screenshot 2](assets/screenshoot/2.png)
+![Screenshot 3](assets/screenshoot/3.png)
+![Screenshot 4](assets/screenshoot/4.png)
+![Screenshot 5](assets/screenshoot/5.png)
+![Screenshot 6](assets/screenshoot/6.png)
+![Screenshot 7](assets/screenshoot/7.png)
+
+## Screenshots (EN)
+![Screenshot 1](assets/screenshoot/1.png)
+![Screenshot 2](assets/screenshoot/2.png)
+![Screenshot 3](assets/screenshoot/3.png)
+![Screenshot 4](assets/screenshoot/4.png)
+![Screenshot 5](assets/screenshoot/5.png)
+![Screenshot 6](assets/screenshoot/6.png)
+![Screenshot 7](assets/screenshoot/7.png)
